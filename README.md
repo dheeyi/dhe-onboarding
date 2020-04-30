@@ -16,10 +16,12 @@ Import into Android Studio
 ## ✨ Screenshots
 
 <p align="center">
+    <img src="https://i.imgur.com/5XF1z1Q.png" width="280">
     <img src="https://i.imgur.com/0DqPB8P.png" width="280">
+</p>
+<p align="center">
     <img src="https://i.imgur.com/CDglATO.png" width="280">
     <img src="https://i.imgur.com/6LSsM0J.png" width="280">
-    <img src="https://i.imgur.com/5XF1z1Q.png" width="280">
 </p>
 
 ## 📖 Features
