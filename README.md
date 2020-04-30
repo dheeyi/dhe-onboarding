@@ -33,7 +33,7 @@ Import into Android Studio
 
 **Dheeyi William**
 
-- Twitter: [@dheeyi](https://twitter.com/christyjacob4)
+- Twitter: [@dheeyi](https://twitter.com/dheeyi)
 - Github: [@dheeyi](https://github.com/dheeyi)
 
 ## 📝 License
