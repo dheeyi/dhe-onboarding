@@ -1,0 +1,21 @@
+<resources>
+    <!--name app-->
+    <string name="app_name">GooWia Solutions</string>
+    <!--screen 1-->
+    <string name="title1">ML KIT</string>
+    <string name="desc1">Machine Learning for Android Applications</string>
+    <!--screen 2-->
+    <string name="title2">Text Recognition</string>
+    <string name="desc2">Text recognition can automate tedious data entry for credit cards, receipts, and business cards.</string>
+    <!--screen 3-->
+    <string name="title3">Face Detection</string>
+    <string name="desc3">With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits</string>
+    <!-- screen login  -->
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <!--another-->
+    <string name="next">Next</string>
+    <string name="back">Prev</string>
+</resources>
